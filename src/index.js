@@ -4,5 +4,5 @@ import "./index.css";
 
 ReactDOM.render(
   <>
-    <h1>Subhadip Chatterjee</h1>
+    <h1 contentEditable>Subhadip Chatterjee</h1>
   </>, document.getElementById("root"));
